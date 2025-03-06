@@ -9,6 +9,7 @@ public class DBUtils {
 
     Connection connection;
     public DBUtils() throws SQLException {
+        System.out.print("test");
         connection = DriverManager.getConnection(
                 "mYJDBCUrl", "myJDBCUser", "myJDBCPass");
     }
