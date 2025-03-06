@@ -13,7 +13,7 @@
 		<maven.compiler.source>17</maven.compiler.source>
 		<maven.compiler.target>17</maven.compiler.target>
 		<sonar.organization>junjun-org</sonar.organization>
-		<sonar.projectKey>junjun-org_workshop-project</sonar.projectKey>
+		<sonar.projectKey>junjun-org_workshop-project2</sonar.projectKey>
 	</properties>
 	<dependencies>
 		<dependency>
